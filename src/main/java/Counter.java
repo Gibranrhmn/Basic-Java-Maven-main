@@ -1,6 +1,6 @@
 package src.main.java;
 
-public class Counteerrr {
+public class Counter {
 
 	private int count;
 	
